@@ -1,4 +1,4 @@
-module github.com/bigfile/bigfile
+module github.com/Aaron3S/bigfile
 
 go 1.12
 
