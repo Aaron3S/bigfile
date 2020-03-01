@@ -43,6 +43,6 @@ require (
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
 	google.golang.org/grpc v1.23.0
 	gopkg.in/go-playground/validator.v9 v9.29.1
-	gopkg.in/urfave/cli.v2 v2.0.0-20180128182452-d3ae77c26ac8
+	github.com/urfave/cli/v2
 	gopkg.in/yaml.v2 v2.2.2
 )
